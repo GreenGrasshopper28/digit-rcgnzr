@@ -3,7 +3,9 @@
 
 ### Hello world
 
-print("Hello")
+def foo():
+  if not bar:
+     return True
 
 
 
